@@ -1,4 +1,4 @@
-# SDA
+# Statical Data Analysis
  MNIST dataset using SVM with Kernel and without Kernel and ﻿Comparing with Logistic Regression(Python &amp; ML)
 
 # Introduction
